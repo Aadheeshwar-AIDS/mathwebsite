@@ -136,7 +136,7 @@ Publish the website in the given URL.
           © 2021
           <a><u> Website for Mathematical Calculations in Client Side.</u></a> Made With <img
             src="https://cdn.discordapp.com/attachments/533340656987275284/914065271138951198/796614640469016636.gif"
-            alt="❤" width="20" height="20"> by AADESHWAR & <a><u> SEC Students</u></a>
+            alt="❤" width="20" height="20"> by AADHEESHWAR & <a><u> SEC Students</u></a>
         </p>
       </center>
     </div>
@@ -350,11 +350,11 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ### Normal Webpage:
-![](./Output/Webpage.png)
+![Github Logo](normal.png)
 ### Error Message:
-![](./Output/Error_Pop-Up.png)
+![Github Logo](error.png)
 ### Final Output
-![](./Output/Correct_Answer.png)
+![Github Logo](final.png)
 
 
 ## Result:
